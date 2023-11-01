@@ -3,6 +3,6 @@
 ### :woman_technologist: About Me :
 - :telescope: Я работаю специалистом по планированию.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Ищу работу связанную с анализом данных.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: В свободное время прохожу тренажеры на Stepik по SQL и Python.
