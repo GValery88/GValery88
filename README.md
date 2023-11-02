@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 ### :woman_technologist: About Me :
-- :telescope: Я работаю специалистом по планированию.
+- :telescope: I work as a planner.
 
-- :seedling: Ищу работу связанную с анализом данных.
+- :seedling: I'm looking for a job related to data analysis.
 
-- :zap: В свободное время прохожу тренажеры на Stepik по SQL и Python.
+- :zap: In my free time, I go through Stepik simulators on SQL and Python.
  ### Languages and Tools:
  <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" title="Python" alt="Spring" width="40" height="40"/>&nbsp;
